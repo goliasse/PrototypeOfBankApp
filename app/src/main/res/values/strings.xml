@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercise</string>
+    <string name="title_details">Account details</string>
+    <string name="loading">Loading</string>
+    <string name="load_failure">Failed to load data</string>
+    <string name="load_done">Loading done</string>
+    <string name="available_funds">Available funds</string>
+    <string name="account_balance">Account balance</string>
+    <string name="pending">PENDING</string>
+    <string name="days_ago">days ago</string>
+
+</resources>

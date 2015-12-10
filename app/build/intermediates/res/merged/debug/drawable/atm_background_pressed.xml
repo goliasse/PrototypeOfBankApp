@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape  xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+    <solid android:color="@color/grey_background_pressed" />
+</shape><!-- From: file:/E:/leox/myproj/career/exercise/app/src/main/res/drawable/atm_background_pressed.xml -->
